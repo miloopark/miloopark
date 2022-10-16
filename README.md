@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 😄 My name is Min Sung (Milo), an undergraduate pursuing a BA in computer science with a minor in physics at Boston University. I am interested in software engineering, artificial intelligence, mixed reality, machine learning, and product management.
+
+For any inquiries, feel free to email me at minpark@bu.edu
+
 
 <!--
 **miloopark/miloopark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
