@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 My name is Min Sung (Milo), an undergraduate pursuing a BA in computer science with a minor in physics at Boston University. I am interested in software engineering, artificial intelligence, mixed reality, machine learning, and product management.
+😄 My name is Min Sung (Milo), an undergraduate pursuing a BA in computer science with a minor in visual arts at Boston University. I am interested in software engineering, artificial intelligence, mixed reality, machine learning, and product management.
 
 For any inquiries, feel free to email me at minpark@bu.edu
 
